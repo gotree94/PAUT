@@ -5,11 +5,11 @@
 * PAUT 시스템 요구사항 정리
 * FPGA 솔루션 (Zynq 시리즈별 아키텍처, 빔포밍 엔진 구조)
 * MCU 솔루션 (STM32H7, i.MX RT 등 신호처리 흐름)
-        * 4가지 제품 라인업 상세 블록 다이어그램
-        * Pocket UT (8ch, 휴대용)
-        * Field Inspector (32ch, 산업용)
-        * Advanced PAUT (64ch, TFM/FMC)
-        * Subsea Inspector (심해용)
+   * 4가지 제품 라인업 상세 블록 다이어그램
+   * Pocket UT (8ch, 휴대용)
+   * Field Inspector (32ch, 산업용)
+   * Advanced PAUT (64ch, TFM/FMC)
+   * Subsea Inspector (심해용)
 * 핵심 부품 추천 (ADC, Pulser, AFE)
 * 개발 로드맵 (24개월 계획)
 * 소프트웨어 스택, 인증 요구사항, 예상 비용
